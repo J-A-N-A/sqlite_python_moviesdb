@@ -13,12 +13,13 @@ Movies.db
 ----------
 
 
-created movies database using DB BROWSER and connected with python by below command
+create movies database using DB BROWSER 
 
+or
+mannually create
 
 *con=sqlite3.connect('movies.db')*
 
-mannually created table 
 
 
 *CREATE TABLE "movies" (
